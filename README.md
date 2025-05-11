@@ -22,6 +22,9 @@ A modern, high-performance file explorer with a sleek dark theme and lightning-f
   - Custom keyboard shortcuts
   - File operations history
   - Emoji-based visual cues
+ 
+![image](https://github.com/user-attachments/assets/e152ef86-b50e-4241-8106-6b7e1cf4cf41)
+
 
 ## 🚀 Installation
 
