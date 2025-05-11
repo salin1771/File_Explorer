@@ -1,6 +1,7 @@
 # NEO File Explorer 🚀
 
-![Demo Screenshot](screenshots/demo.png) <!-- Add actual screenshot later -->
+![image](https://github.com/user-attachments/assets/c79921c2-1b99-4d35-90d3-a94ce115226b)
+
 
 A modern, high-performance file explorer with a sleek dark theme and lightning-fast search capabilities. Designed for power users who value efficiency and aesthetics.
 
@@ -13,7 +14,7 @@ A modern, high-performance file explorer with a sleek dark theme and lightning-f
 - **Smart Preview**  
   Quick access to file metadata and directory info
 - **Cross-Platform**  
-  Works on Windows 10/11 (macOS/Linux support coming soon)
+  Works on Windows 10/11 
 - **Lightweight**  
   Uses <1% CPU during idle, ~50MB RAM usage
 - **Advanced Features**
@@ -25,7 +26,7 @@ A modern, high-performance file explorer with a sleek dark theme and lightning-f
 ## 🚀 Installation
 
 ### For End Users
-1. Download latest release from [Releases page](https://github.com/yourusername/neo-explorer/releases)
+1. Download latest release from MY GitHub Repo
 2. Run `NEOExplorer_Setup.exe`
 3. Follow installation wizard
 4. Launch from Start Menu or Desktop shortcut
@@ -33,7 +34,7 @@ A modern, high-performance file explorer with a sleek dark theme and lightning-f
 ### For Developers
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/neo-explorer.git
+git clone https://github.com/salin1771/neo-explorer.git
 cd neo-explorer
 
 # Install dependencies
@@ -82,9 +83,6 @@ We welcome contributions! Please follow these steps:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) for details
 
 ## 🙏 Acknowledgements
 
